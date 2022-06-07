@@ -1,4 +1,3 @@
-from pprint import pprint
 import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
